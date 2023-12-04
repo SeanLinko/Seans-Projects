@@ -24,7 +24,7 @@ int main()
         cout << "Press 4 Find the out edges of a vertices" << endl;
         cout << "Press 5 Find the in edges of a vertices" << endl;
         cout << "Press 6 To Print out Adjacency Matrix (Change for Lab11)" << endl;
-        cout << "Press 7 to quit." << endl;
+        cout << "Press 7 to quit. (Changing it again for Lab11)" << endl;
         cout << "----------------------------------------" << endl;
         cin >> actionInput;
         
