@@ -149,13 +149,14 @@ TEST(BFSTest, NonExistentPath)
     ASSERT_EQ(test.BreadthFirstSearch(0, 4).nodes_searched, "Path Not Found");   
 }
 
+/*
 TEST(FileTest, FileDataTOGraph) 
 {
     auto test = Graph("/home/seanlinko/Lab09/filetest.txt");
 
     test.PrintOutAdjacencyMatrix();
 }
-
+*/
 int main(int argc, char **argv) {
     testing::InitGoogleTest(&argc, argv);
     return RUN_ALL_TESTS();
