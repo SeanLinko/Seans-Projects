@@ -23,7 +23,7 @@ int main()
         cout << "Press 3 Find an edge in the graph" << endl;
         cout << "Press 4 Find the out edges of a vertices" << endl;
         cout << "Press 5 Find the in edges of a vertices" << endl;
-        cout << "Press 6 To Print out Adjacency Matrix" << endl;
+        cout << "Press 6 To Print out Adjacency Matrix (Change for Lab11)" << endl;
         cout << "Press 7 to quit." << endl;
         cout << "----------------------------------------" << endl;
         cin >> actionInput;
